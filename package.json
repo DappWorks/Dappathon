@@ -1,0 +1,25 @@
+{
+  "name": "dappathon",
+  "version": "1.0.0",
+  "description": "The Dappathon website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amirh24/Dappathon-frontend.git"
+  },
+  "author": "Amir Hagafny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amirh24/Dappathon-frontend/issues"
+  },
+  "homepage": "https://github.com/Amirh24/Dappathon-frontend#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "nodemon": "1.18.4"
+  }
+}
