@@ -1,0 +1,4 @@
+# [[redirects]]
+#   from = "/*"
+#   to = "/dappathon"
+#   status = 200
