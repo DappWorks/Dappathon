@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Amirh24/Dappathon-frontend.git"
+    "url": "git+https://github.com/DappWorks/Dappathon.git"
   },
   "author": "Amir Hagafny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Amirh24/Dappathon-frontend/issues"
+    "url": "https://github.com/DappWorks/Dappathon/issues"
   },
-  "homepage": "https://github.com/Amirh24/Dappathon-frontend#readme",
+  "homepage": "https://github.com/DappWorks/Dappathon#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "path": "^0.12.7",
-    "nodemon": "1.18.4"
+    "nodemon": "1.18.4",
+    "path": "^0.12.7"
   }
 }
