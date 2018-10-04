@@ -904,22 +904,22 @@ textarea {
 .rich-text li {
 	position: relative;
 	margin-bottom: .45em;
-	padding-left: 1em
+	padding-left: 5em
 }
 
 .rich-text li::before {
 	content: '';
 	width: 6px;
 	height: 6px;
-	background-color: #ffd500;
+	background-color: #4498ff;
 	position: absolute;
-	left: 0;
+	left: 10em;
 	top: .5em;
-	border-radius: 50%
+	border-radius: 50%;
 }
 
 .rich-text ul.list-none li {
-	padding-left: 0
+	padding-left: 0;
 }
 
 .social {
