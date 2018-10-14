@@ -1046,10 +1046,12 @@ textarea {
 
 .mentor__descr {
 	font-size: 16px;
-	font-weight: 300;
-	min-height: 4.2em;
-	margin-bottom: 25px
+	font-weight: 500;
+	min-height: 2.2em;
+	margin-bottom: 20px
 }
+
+
 
 .accordion__item {
 	border-bottom: 1px solid rgba(225, 225, 225, .4)
@@ -1853,4 +1855,4 @@ textarea {
 	}
 }
 
-/*# sourceMappingURL=app.css.map */
+/* # sourceMappingURL=app.css.map */
