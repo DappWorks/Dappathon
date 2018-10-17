@@ -922,6 +922,58 @@ textarea {
 	padding-left: 0;
 }
 
+.advantage {
+	text-align: center;
+	color: #73f5e2
+}
+
+.advantage__title {
+	font-size: 12px;
+	line-height: 1.4em;
+	text-transform: uppercase;
+	margin-top: 20px;
+	font-weight: 700;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.tiles_advantages {
+	margin: -40px auto
+}
+
+.tiles_advantages .tiles__item {
+	width: 130px;
+	margin: 40px auto
+}
+
+.tiles_advantages .tiles__item {
+	-webkit-flex-shrink: 0;
+	-ms-flex-negative: 0;
+	flex-shrink: 0;
+	margin-left: 30px;
+	margin-right: 30px
+}
+
+.tiles_advantages, .tiles_numbers {
+	-webkit-flex-wrap: nowrap;
+	-ms-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	-ms-flex-pack: justify;
+	justify-content: space-between
+}
+
+.advantage__title {
+	font-size: 12px;
+	line-height: 1.4em;
+	text-transform: uppercase;
+	margin-top: 20px;
+	font-weight: 700;
+	margin-left: auto;
+	margin-right: auto
+}
+
 .social {
 	display: -webkit-box;
 	display: -webkit-flex;
@@ -1050,8 +1102,6 @@ textarea {
 	min-height: 2.2em;
 	margin-bottom: 20px
 }
-
-
 
 .accordion__item {
 	border-bottom: 1px solid rgba(225, 225, 225, .4)
@@ -1395,7 +1445,7 @@ textarea {
 	color: #fff
 }
 
-@media only screen and (min-width:768px) {
+@media only screen and (min-width:20px) {
 	.tiles {
 		display: -webkit-box;
 		display: -webkit-flex;
@@ -1412,6 +1462,14 @@ textarea {
 		-webkit-justify-content: center;
 		-ms-flex-pack: center;
 		justify-content: center
+	}
+	.tiles_advantages {
+		margin-left: -30px;
+		margin-right: -30px;
+		padding: 2px 25px 15px;
+		text-align: center;
+		margin-top: 45px;
+		position: relative
 	}
 	.tiles_numbers {
 		margin: 34px 0 -30px
@@ -1436,6 +1494,33 @@ textarea {
 	}
 	.tiles_mentors .tiles__item, .tiles_tickets .tiles__item {
 		margin: 0
+	}
+	.advantage {
+		text-align: center;
+	}
+	.advantage__icon svg {
+		max-width: 63px;
+		max-height: 63px
+	}
+	.advantage__title {
+		font-size: 12px;
+		line-height: 1.4em;
+		text-transform: uppercase;
+		margin-top: 20px;
+		font-weight: 700;
+		margin-left: auto;
+		margin-right: auto
+	}
+	tiles_advantages {
+		margin-left: -30px;
+		margin-right: -30px
+	}
+	.tiles_advantages .tiles__item {
+		-webkit-flex-shrink: 0;
+		-ms-flex-negative: 0;
+		flex-shrink: 0;
+		margin-left: 30px;
+		margin-right: 30px
 	}
 	.partners {
 		margin-left: -50px;
@@ -1605,8 +1690,10 @@ textarea {
 		justify-content: space-between
 	}
 	.tiles_numbers .tiles__item {
-		margin-left: 30px;
-		margin-right: 30px
+		-webkit-flex-shrink: 0;
+		-ms-flex-negative: 0;
+		flex-shrink: 0;
+		margin: 30px 60px
 	}
 	.rich-text h2 {
 		font-size: 32px

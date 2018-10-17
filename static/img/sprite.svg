@@ -3,6 +3,8 @@
     
         <path d="M8.69 17.765c0 .079-.093.141-.21.141-.133.012-.226-.05-.226-.14 0-.079.093-.141.21-.141.12-.012.226.05.226.14zm-1.255-.175c-.028.078.053.168.174.191.105.04.226 0 .25-.078.024-.078-.053-.168-.174-.203-.104-.027-.221.012-.25.09zm1.783-.067c-.117.028-.198.102-.186.192.012.078.117.129.238.101.117-.027.198-.101.186-.18-.012-.074-.121-.124-.238-.113zM11.87 2.555C6.278 2.555 2 6.668 2 12.085c0 4.333 2.815 8.04 6.835 9.345.516.09.697-.22.697-.473 0-.242-.012-1.578-.012-2.399 0 0-2.822.586-3.415-1.164 0 0-.46-1.136-1.121-1.43 0 0-.924-.613.064-.6 0 0 1.004.077 1.557 1.007.883 1.508 2.363 1.074 2.94.816.092-.625.354-1.058.645-1.316-2.255-.242-4.529-.559-4.529-4.316 0-1.075.307-1.614.952-2.301C6.508 9 6.165 7.953 6.718 6.6 7.56 6.348 9.5 7.656 9.5 7.656a9.76 9.76 0 0 1 2.532-.332 9.76 9.76 0 0 1 2.533.332s1.939-1.312 2.782-1.055c.552 1.356.21 2.399.105 2.653.645.691 1.04 1.23 1.04 2.3 0 3.77-2.375 4.07-4.63 4.317.372.309.686.894.686 1.812 0 1.317-.012 2.946-.012 3.266 0 .254.186.563.698.473C19.266 20.125 22 16.418 22 12.086c0-5.418-4.536-9.531-10.129-9.531zM5.919 16.027c-.052.04-.04.13.029.203.064.063.157.09.21.04.052-.04.04-.13-.029-.204-.064-.062-.157-.09-.21-.039zm-.435-.316c-.028.05.012.113.093.152.064.04.145.027.173-.027.028-.051-.012-.113-.093-.153-.08-.023-.145-.011-.173.028zM6.79 17.1c-.064.051-.04.168.053.243.092.09.21.101.262.039.052-.051.028-.168-.053-.243-.088-.09-.21-.101-.262-.039zm-.46-.574c-.064.04-.064.14 0 .23.065.09.174.13.226.09.065-.05.065-.152 0-.242-.056-.09-.16-.129-.225-.078z" id="github"/>
     
+        <path d="M7.094 14.598H5.125V2h1.969v12.598zm3.926-9.625H9.05V22h1.97V4.973zm3.93 0h-1.97V22h1.97V4.973zm3.925-.004h-1.969v9.648h1.969V4.97z" id="path-1"/>
+    
         <path d="M19.714 3.25H4.282C3.575 3.25 3 3.816 3 4.512v14.976c0 .696.575 1.262 1.282 1.262h15.432c.707 0 1.286-.566 1.286-1.262V4.512c0-.696-.579-1.262-1.286-1.262zm-11.274 15H5.772V9.898h2.672v8.352H8.44zM7.106 8.758c-.856 0-1.547-.676-1.547-1.504S6.25 5.75 7.106 5.75c.852 0 1.547.676 1.547 1.504 0 .832-.69 1.504-1.547 1.504zm11.335 9.492h-2.668v-4.063c0-.968-.02-2.214-1.386-2.214-1.39 0-1.604 1.054-1.604 2.144v4.133h-2.667V9.898h2.559v1.141h.036c.358-.656 1.23-1.348 2.527-1.348 2.7 0 3.203 1.73 3.203 3.98v4.579z" id="ln"/>
     
         <path d="M12 2.313C6.476 2.313 2 6.647 2 12c0 5.352 4.476 9.688 10 9.688S22 17.352 22 12s-4.476-9.688-10-9.688zm4.911 6.636l-1.64 7.492c-.122.532-.448.66-.904.41l-2.5-1.785-1.206 1.125c-.133.13-.246.239-.504.239l.178-2.465 4.633-4.055c.201-.172-.045-.27-.31-.098L8.93 13.306l-2.467-.746c-.537-.164-.549-.52.113-.77l9.64-3.601c.448-.157.84.105.694.761z" id="tm"/>
@@ -10,7 +12,92 @@
         <path d="M19.944 7.926c.013.178.013.356.013.533 0 5.42-4.124 11.663-11.663 11.663-2.322 0-4.48-.673-6.294-1.84.33.038.647.05.99.05 1.916 0 3.68-.647 5.089-1.75a4.106 4.106 0 0 1-3.833-2.843c.254.038.508.063.774.063.368 0 .736-.05 1.079-.14A4.1 4.1 0 0 1 2.812 9.64v-.051c.546.304 1.18.495 1.853.52a4.096 4.096 0 0 1-1.827-3.414c0-.761.203-1.459.558-2.068a11.651 11.651 0 0 0 8.452 4.29 4.627 4.627 0 0 1-.102-.94 4.097 4.097 0 0 1 4.1-4.099 4.09 4.09 0 0 1 2.994 1.295 8.07 8.07 0 0 0 2.602-.99 4.088 4.088 0 0 1-1.802 2.259A8.217 8.217 0 0 0 22 5.807a8.811 8.811 0 0 1-2.056 2.12z" id="tw"/>
     
         <path d="M21.085 7.362a2.398 2.398 0 0 0-1.676-1.708C17.929 5.25 12 5.25 12 5.25s-5.93 0-7.409.404a2.398 2.398 0 0 0-1.676 1.708c-.396 1.507-.396 4.652-.396 4.652s0 3.144.396 4.651a2.36 2.36 0 0 0 1.676 1.681c1.48.404 7.409.404 7.409.404s5.93 0 7.409-.404a2.362 2.362 0 0 0 1.676-1.681c.396-1.507.396-4.651.396-4.651s0-3.145-.396-4.652zm-11.024 7.506v-5.71l4.956 2.856-4.956 2.854z" id="yb"/>
-    </defs><symbol id="icon-chevron-down" viewBox="0 0 14 9">
+    </defs><symbol id="icon-blockchain-adoption" viewBox="0 0 65 65">
+    <title>
+        blockchain-adoption
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-4" transform="translate(-1068 -484)" stroke="#73F5E2" stroke-width="2">
+            <g id="blockchain-adoption" transform="translate(1069.37 485.726)">
+                <path id="Shape" d="M34 21v9l-4 4v7"/>
+                <path d="M38 63V33" id="Shape"/>
+                <path d="M30 34v-9" id="Shape"/>
+                <path d="M20 63V39" id="Shape"/>
+                <path d="M16 41v-2" id="Shape"/>
+                <path d="M12 41v-2" id="Shape"/>
+                <path d="M24 31v-2" id="Shape"/>
+                <path d="M34 19v-2" id="Shape"/>
+                <path d="M38 31v-2" id="Shape"/>
+                <path d="M38 27v-2" id="Shape"/>
+                <path d="M0 15v34a3 3 0 0 0 3 3h24" id="Shape"/>
+                <path d="M4 6H3a3 3 0 1 0 0 6h55v37" id="Shape"/>
+                <path d="M20 32h-9" id="Shape"/>
+                <path d="M20 32V21" id="Shape"/>
+                <path d="M17 24h-2" id="Shape"/>
+                <path d="M17 28h-2" id="Shape"/>
+                <path d="M34 49v-2" id="Shape"/>
+                <path d="M34 45v-2" id="Shape"/>
+                <path d="M34 41v-2" id="Shape"/>
+                <path id="Rectangle-path" d="M24 4h38v4H24z"/>
+                <path id="Shape" d="M52 4V0H4v8h17"/>
+                <path d="M7 4h2" id="Shape"/>
+                <path d="M11 4h2" id="Shape"/>
+                <path d="M15 4h2" id="Shape"/>
+                <path id="Shape" d="M24 63V44h2l4 4v11"/>
+                <path d="M30 61v2" id="Shape"/>
+                <path id="Shape" d="M62 11v41H33"/>
+                <path id="Shape" d="M38 42l4-4V23"/>
+                <path d="M62 44h-8a2 2 0 0 1-2-2v-5" id="Shape"/>
+                <path d="M62 20h-8a2 2 0 0 0-2 2v13" id="Shape"/>
+                <path d="M20 44h-5" id="Shape"/>
+                <path d="M4 49V19" id="Shape"/>
+                <path d="M4 17v-2" id="Shape"/>
+                <path d="M42 38h5" id="Shape"/>
+                <path d="M45 34h2" id="Shape"/>
+                <path id="Shape" d="M24 41v-5l-4-4"/>
+            </g>
+        </g>
+    </g>
+</symbol><symbol id="icon-campus" viewBox="0 0 65 65">
+    <title>
+        campus
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-5" transform="translate(-864 -492)" stroke="#73F5E2" stroke-width="2">
+            <g id="campus" transform="translate(865.5 493.015)">
+                <path d="M62 11v30" id="Shape"/>
+                <path id="Shape" d="M55 0h7v7"/>
+                <path id="Shape" d="M0 14V0h51"/>
+                <path d="M3 36h56" id="Shape"/>
+                <path id="Shape" d="M0 41V20l8-8 11 11L33 9l10 10L62 0"/>
+                <path id="Shape" d="M13 53l7 4 8-4"/>
+                <path d="M55 53l7 4v2c0 1.66-1 3-2 3H2c-1 0-2-1.34-2-3v-2l7-4" id="Shape"/>
+                <path id="Shape" d="M34 53l8 4 7-4"/>
+                <path d="M15 47.5c0 3.5-2 6.5-5 6.5s-5-3-5-6.5S6 42 10 42s5 2 5 5.5z" id="Shape"/>
+                <path d="M36 47.5c0 3.5-2 6.5-5 6.5s-5-3-5-6.5 1-5.5 5-5.5 5 2 5 5.5z" id="Shape"/>
+                <path d="M57 47.5c0 3.5-2 6.5-5 6.5s-5-3-5-6.5 1-5.5 5-5.5 5 2 5 5.5z" id="Shape"/>
+                <path d="M20 57v3" id="Shape"/>
+                <path d="M42 57v3" id="Shape"/>
+                <path d="M7 32h8" id="Shape"/>
+                <path d="M7 28h8" id="Shape"/>
+                <path d="M17 32h8" id="Shape"/>
+                <path d="M17 28h8" id="Shape"/>
+                <path d="M27 32h8" id="Shape"/>
+                <path d="M27 28h8" id="Shape"/>
+                <path d="M27 24h8" id="Shape"/>
+                <path d="M27 20h8" id="Shape"/>
+                <path d="M37 32h8" id="Shape"/>
+                <path d="M37 28h8" id="Shape"/>
+                <path d="M37 24h8" id="Shape"/>
+                <path d="M47 32h8" id="Shape"/>
+                <path d="M47 28h8" id="Shape"/>
+                <path d="M47 24h8" id="Shape"/>
+                <path d="M47 20h8" id="Shape"/>
+                <path d="M7 24h8" id="Shape"/>
+            </g>
+        </g>
+    </g>
+</symbol><symbol id="icon-chevron-down" viewBox="0 0 14 9">
     <title>
         chevron-down
     </title>
@@ -25,6 +112,46 @@
             </g>
         </g>
     </g>
+</symbol><symbol id="icon-community-development" viewBox="0 0 64 61">
+    <title>
+        community-development
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-5" transform="translate(-1074 -494)" stroke="#73F5E2" stroke-width="2">
+            <g id="community-development" transform="translate(1075 495.015)">
+                <path d="M36 5.5C36 9 34 12 31 12s-5-3-5-6.5S27 0 31 0s5 2 5 5.5z" id="Shape"/>
+                <path d="M34 11l7 4v2c0 1.66-1 3-2 3H23c-1 0-2-1.34-2-3v-2l7-4" id="Shape"/>
+                <path d="M15 43.5c0 3.5-2 6.5-5 6.5s-5-3-5-6.5S6 38 10 38s5 2 5 5.5z" id="Shape"/>
+                <path d="M13 49l7 4v2c0 1.66-1 3-2 3H2c-1 0-2-1.34-2-3v-2l7-4" id="Shape"/>
+                <path d="M57 43.5c0 3.5-2 6.5-5 6.5s-5-3-5-6.5 1-5.5 5-5.5 5 2 5 5.5z" id="Shape"/>
+                <path d="M55 49l7 4v2c0 1.66-1 3-2 3H44c-1 0-2-1.34-2-3v-2l7-4" id="Shape"/>
+                <path d="M31 25v10" id="Shape"/>
+                <path d="M31 35l-10 8" id="Shape"/>
+                <path d="M31 35l10 8" id="Shape"/>
+            </g>
+        </g>
+    </g>
+</symbol><symbol id="icon-conference" viewBox="0 0 64 65">
+    <title>
+        conference
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-5" transform="translate(-239 -491)" stroke="#73F5E2" stroke-width="2">
+            <g id="conference" transform="translate(240 492.515)">
+                <circle id="Oval" cx="31" cy="5" r="5"/>
+                <path d="M19 28v-7a7 7 0 0 1 7-7h10a7 7 0 0 1 7 7v7H19z" id="Shape"/>
+                <path d="M25 28v-5" id="Shape"/>
+                <path d="M37 28v-5" id="Shape"/>
+                <path id="Shape" d="M39 4h23v36H48"/>
+                <path id="Shape" d="M14 40H0V4h23"/>
+                <path id="Rectangle-path" d="M13 28h36v6H13z"/>
+                <path id="Shape" d="M19 63V34h24v29"/>
+                <path id="Rectangle-path" d="M25 40h12v18H25z"/>
+                <path d="M31 17v2" id="Shape"/>
+                <path d="M31 21v2" id="Shape"/>
+            </g>
+        </g>
+    </g>
 </symbol><symbol id="icon-email" viewBox="0 0 512 512">
     <path fill="#73F5E2" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/>
 </symbol><symbol id="icon-facebook">
@@ -33,17 +160,209 @@
 </symbol><symbol id="icon-github">
     
     <use fill="#73F5E2" xlink:href="#github" transform="translate(-1.855 -1.735)"/>
+</symbol><symbol id="icon-gitter" viewBox="0 0 15 21">
+    <title>
+        Icons/Brands/gitter
+    </title>
+    
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-3" transform="translate(-749 -531)">
+            <g id="Icons/Brands/gitter" transform="translate(744.588 529.573)">
+                <mask id="mask-2" fill="#fff">
+                    <use xlink:href="#path-1"/>
+                </mask>
+                <use id="gitter" fill="#73F5E2" fill-rule="nonzero" xlink:href="#path-1"/>
+            </g>
+        </g>
+    </g>
+</symbol><symbol id="icon-hackaton" viewBox="0 0 65 65">
+    <title>
+        hackaton
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-5" transform="translate(-447 -492)" stroke="#73F5E2" stroke-width="2">
+            <g id="hackaton" transform="translate(448.5 493.015)">
+                <path d="M22 14a8 8 0 0 0-8 8v11" id="Shape"/>
+                <path d="M40 14a8 8 0 0 1 8 8v11" id="Shape"/>
+                <path id="Shape" d="M48 44h14v18H52"/>
+                <path id="Shape" d="M10 62H0V44h14"/>
+                <path d="M48 41v21H14V41a3 3 0 0 1 3-3h28a3 3 0 0 1 3 3z" id="Shape" stroke-linejoin="round"/>
+                <path id="Shape" stroke-linejoin="round" d="M48 62l3-6v-6h-3"/>
+                <path id="Shape" stroke-linejoin="round" d="M14 62l-3-6v-6h3"/>
+                <circle id="Oval" stroke-linejoin="round" cx="31" cy="50" r="3"/>
+                <path d="M9 44v-2c0-10 7-9 14-13" id="Shape"/>
+                <path d="M39 29c7 4 14 2 14 12v3" id="Shape"/>
+                <path id="Shape" d="M35 33l-4-2-4 2-4-4 2-3 6 1 6-1 2 3z"/>
+                <path d="M36 22v4" id="Shape"/>
+                <path d="M26 26v-4" id="Shape"/>
+                <path d="M40 9c0-6.08-2.92-9-9-9s-9 2.92-9 9v4c1 7 4 9 4 9a13 13 0 0 0 10 0s3-2 4-9V9z" id="Shape"/>
+                <path id="Shape" d="M22 9l4-2 5 2 5 2 4-2"/>
+            </g>
+        </g>
+    </g>
+</symbol><symbol id="icon-ico-assistance" viewBox="0 0 64 61">
+    <title>
+        ico-assistance
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-4" transform="translate(-656 -486)">
+            <g id="ico-assistance" transform="translate(657 487.726)">
+                <path d="M18 59v-7c0-10 7-9 14-13" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+                <path d="M48 39c7 4 14 3 14 13v7" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+                <path id="Shape" stroke="#73F5E2" stroke-width="2" d="M44 43l-4-2-4 2-4-4 2-3 6 1 6-1 2 3z"/>
+                <path d="M45 32v4" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+                <path d="M35 36v-4" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+                <path d="M39 50h2" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+                <path d="M39 46h2" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+                <path d="M49 19c0-6.08-2.92-9-9-9s-9 2.92-9 9v4c1 7 4 9 4 9a13 13 0 0 0 10 0s3-2 4-9v-4z" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+                <path id="Shape" stroke="#73F5E2" stroke-width="2" d="M31 19l4-2 5 2 5 2 4-2"/>
+                <path d="M21 40h-1C8.954 40 0 31.046 0 20S8.954 0 20 0a19.53 19.53 0 0 1 15 7" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+                <g id="Group" transform="translate(9 13)" fill="#73F5E2" fill-rule="nonzero">
+                    <path d="M12.12 6.209c-.816 0-1.58-.03-2.232-.08a.72.72 0 0 0 .317-.604V3.633c0-.13-.04-.25-.106-.35.603-.041 1.291-.065 2.022-.065 2.377 0 4.306.246 4.33.55v-.006 1.892c0 .306-1.939.555-4.33.555z" id="Shape"/>
+                    <path d="M10.203 8.835a.649.649 0 0 0-.245-.258.12.12 0 0 1-.057-.126c.003-.019.002-.038.002-.058V6.968c.767.088 1.783.142 2.896.142 2.392 0 4.331-.248 4.331-.554v1.892c0 .307-1.939.555-4.331.555-1.45 0-1.768-.037-2.469-.1a.28.28 0 0 1-.127-.068z" id="Shape"/>
+                    <path d="M12.228 9.87c2.392 0 4.331-.248 4.331-.555v1.892c0 .307-1.939.555-4.33.555-.804 0-1.556-.028-2.2-.077a.704.704 0 0 0 .25-.55V9.81c.586.038 1.248.06 1.95.06z" id="Shape"/>
+                    <path d="M9.784 12.648a29.09 29.09 0 0 0 2.337.088c2.391 0 4.33-.248 4.33-.554v1.892c0 .306-1.939.554-4.33.554a28.59 28.59 0 0 1-2.46-.098.763.763 0 0 0 .042-.22l.081-1.662z" id="Shape"/>
+                    <path d="M4.583 13.162c2.389.116 4.338-.144 4.353-.45l-.093 1.89c-.014.306-2.071.782-4.46.665-2.39-.117-4.099-.46-4.084-.766l-.015-2.105c-.015.306 1.91.649 4.299.766z" id="Shape"/>
+                    <path d="M.65 11.457V9.565c0 .306 1.938.555 4.33.555 2.392 0 4.331-.249 4.331-.555v1.892c0 .307-1.939.555-4.33.555-2.393 0-4.332-.248-4.332-.555z" id="Shape"/>
+                    <path d="M4.389 7.162c2.391 0 4.33-.248 4.33-.554V8.5c0 .306-1.938.555-4.33.555-2.393 0-4.332-.249-4.332-.555V6.608c0 .306 1.94.554 4.332.554z" id="Shape"/>
+                    <path d="M.467 5.526V3.633c0 .306 1.94.554 4.331.554 2.393 0 4.332-.248 4.332-.554v1.893c0 .306-1.94.554-4.332.554S.467 5.832.467 5.526z" id="Shape"/>
+                    <path d="M4.604.189c2.377 0 4.307.245 4.33.549l.001-.006v1.892c0 .306-1.94.555-4.331.555-2.393 0-4.331-.249-4.331-.555V.732v.006c.024-.304 1.953-.55 4.33-.55z" id="Shape"/>
+                </g>
+                <path d="M26 59v-6" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+                <path d="M54 59v-6" id="Shape" stroke="#73F5E2" stroke-width="2"/>
+            </g>
+        </g>
+    </g>
 </symbol><symbol id="icon-linkedin">
     
     <use fill="#73F5E2" xlink:href="#ln" transform="translate(-2.084 -2.735)"/>
 </symbol><symbol id="icon-medium" viewBox="0 0 448 512">
     <path fill="#73F5E2" d="M0 32v448h448V32H0zm372.2 106.1l-24 23c-2.1 1.6-3.1 4.2-2.7 6.7v169.3c-.4 2.6.6 5.2 2.7 6.7l23.5 23v5.1h-118V367l24.3-23.6c2.4-2.4 2.4-3.1 2.4-6.7V199.8l-67.6 171.6h-9.1L125 199.8v115c-.7 4.8 1 9.7 4.4 13.2l31.6 38.3v5.1H71.2v-5.1l31.6-38.3c3.4-3.5 4.9-8.4 4.1-13.2v-133c.4-3.7-1-7.3-3.8-9.8L75 138.1V133h87.3l67.4 148L289 133.1h83.2v5z"/>
+</symbol><symbol id="icon-smart-contracts" viewBox="0 0 60 65">
+    <title>
+        smart-contracts
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-4" transform="translate(-451 -485)" stroke="#73F5E2" stroke-width="2">
+            <g id="smart-contracts" transform="translate(451 486.226)">
+                <path id="Shape" d="M13 19V0h6"/>
+                <path id="Shape" d="M30 0h21l8 8v54H18"/>
+                <path id="Shape" d="M27 0v15l-4-4-4 4V0z"/>
+                <path d="M30 54h24" id="Shape"/>
+                <path d="M34 50h2" id="Shape"/>
+                <path d="M30 50h2" id="Shape"/>
+                <path d="M38 50h16" id="Shape"/>
+                <path d="M52 58h2" id="Shape"/>
+                <path id="Shape" d="M59 8h-8V0"/>
+                <path d="M38 38h16" id="Shape"/>
+                <path d="M30 26h24" id="Shape"/>
+                <path d="M30 22h24" id="Shape"/>
+                <path d="M30 34h24" id="Shape"/>
+                <path d="M30 30h24" id="Shape"/>
+                <path d="M54 14H42" id="Shape"/>
+                <path d="M6 54h14" id="Shape"/>
+                <path d="M6 50h14" id="Shape"/>
+                <path d="M8 44.91a12 12 0 1 1 10 0" id="Shape"/>
+                <path id="Shape" d="M17 50v8l-3 4h-2l-3-4v-8"/>
+                <path d="M6 58h14" id="Shape"/>
+                <path id="Shape" d="M18 34h-5v16"/>
+                <path d="M10 34H8" id="Shape"/>
+            </g>
+        </g>
+    </g>
+</symbol><symbol id="icon-talent-acquisition" viewBox="0 0 64 65">
+    <title>
+        talent-acquisition
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-4" transform="translate(-865 -484)" stroke="#73F5E2" stroke-width="2">
+            <g id="talent-acquisition" transform="translate(866 485.726)">
+                <path d="M26 0C14.402 0 5 9.402 5 21L0 34v2h5v9a6 6 0 0 0 6 6h6v12" id="Shape"/>
+                <path d="M17 51h3" id="Shape" stroke-linejoin="round"/>
+                <path d="M45 51h-3" id="Shape" stroke-linejoin="round"/>
+                <path d="M15 21C15 9.402 24.402 0 36 0s21 9.402 21 21l5 13v2h-5v9a6 6 0 0 1-6 6h-6v12" id="Shape"/>
+                <path d="M39 63V51c0-10 8-16.4 8-28v-2" id="Shape"/>
+                <path id="Shape" stroke-linejoin="round" d="M39 15l-8 8-4-4"/>
+                <path d="M33 12h2" id="Shape" stroke-linejoin="round"/>
+                <path d="M40 21a9 9 0 1 1-9-9" id="Shape" stroke-linejoin="round"/>
+                <path d="M15 23v2" id="Shape"/>
+                <path d="M47 17v2" id="Shape"/>
+            </g>
+        </g>
+    </g>
 </symbol><symbol id="icon-telegram">
     
     <use fill="#73F5E2" xlink:href="#tm" transform="translate(-1.313 -1.735)"/>
+</symbol><symbol id="icon-token-economy" viewBox="0 0 64 65">
+    <title>
+        token-economy
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-4" transform="translate(-240 -484)" stroke="#73F5E2" stroke-width="2">
+            <g id="token-economy" transform="translate(240 485.726)">
+                <path d="M32 24v21" id="Shape"/>
+                <path d="M32 0v19" id="Shape"/>
+                <path d="M32 62V47" id="Shape"/>
+                <path d="M2 24h17" id="Shape"/>
+                <path d="M45 38h18" id="Shape"/>
+                <path d="M32 30h3a3 3 0 0 0 0-6H25" id="Shape"/>
+                <path d="M32 30h6a4 4 0 1 1 0 8H25" id="Shape"/>
+                <path d="M63 30H45" id="Shape"/>
+                <path d="M47 10H4" id="Shape"/>
+                <path d="M60 52H24" id="Shape"/>
+                <path d="M48 33v2" id="Shape"/>
+                <path d="M52 33v2" id="Shape"/>
+                <path d="M56 33v2" id="Shape"/>
+                <path d="M28 38V13" id="Shape"/>
+                <path d="M32 62c-5.52 0-10-13-10-24H6" id="Shape"/>
+                <path d="M64 52h-2" id="Shape"/>
+                <path d="M2 10H0" id="Shape"/>
+                <path d="M35 18h2" id="Shape"/>
+                <path d="M39 18h2" id="Shape"/>
+                <path d="M43 22h2" id="Shape"/>
+                <path d="M1.26 27C3.372 10.797 17.698-.985 34.004.071 50.31 1.128 62.997 14.66 63 31" id="Shape"/>
+                <path d="M62.94 33C61.899 49.728 47.75 62.598 31 62.057 14.247 61.517.96 47.76 1 31h11" id="Shape"/>
+                <path d="M8 42h2" id="Shape"/>
+                <path d="M15 48h14" id="Shape"/>
+                <path d="M43 18h17" id="Shape"/>
+                <path d="M4 18h19" id="Shape"/>
+                <path d="M49.13 47c-3.5 9-9.86 15-17.13 15-11 0-20-13.88-20-31 0-17.12 9-31 20-31s20 14 20 30" id="Shape"/>
+                <path d="M60 44H35" id="Shape"/>
+                <path d="M35 48h2" id="Shape"/>
+                <path d="M39 48h2" id="Shape"/>
+                <path d="M21 24h2" id="Shape"/>
+                <path d="M21 28h2" id="Shape"/>
+                <path d="M21 32h2" id="Shape"/>
+            </g>
+        </g>
+    </g>
 </symbol><symbol id="icon-twitter">
     
     <use fill="#73F5E2" xlink:href="#tw" transform="translate(-2 -3.735)"/>
+</symbol><symbol id="icon-workshops" viewBox="0 0 64 65">
+    <title>
+        workshops
+    </title>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+        <g id="Slide-1-Copy-5" transform="translate(-656 -492)" stroke="#73F5E2" stroke-width="2">
+            <g id="workshops" transform="translate(657 493.015)">
+                <path id="Shape" d="M21 8h37v20H21"/>
+                <circle id="Oval" stroke-linejoin="round" cx="11" cy="5" r="5"/>
+                <path d="M6 27v9H0V21a7 7 0 0 1 7-7h27v6H18v16h44V4H19" id="Shape"/>
+                <path d="M21 32h38" id="Shape" stroke-linejoin="round"/>
+                <path d="M55 53l7 4v2c0 1.66-1 3-2 3H2c-1 0-2-1.34-2-3v-2l7-4" id="Shape"/>
+                <path id="Shape" d="M34 53l8 4 7-4"/>
+                <path id="Shape" d="M13 53l7 4 8-4"/>
+                <path d="M15 47.5c0 3.5-2 6.5-5 6.5s-5-3-5-6.5S6 42 10 42s5 2 5 5.5z" id="Shape"/>
+                <path d="M36 47.5c0 3.5-2 6.5-5 6.5s-5-3-5-6.5 1-5.5 5-5.5 5 2 5 5.5z" id="Shape"/>
+                <path d="M57 47.5c0 3.5-2 6.5-5 6.5s-5-3-5-6.5 1-5.5 5-5.5 5 2 5 5.5z" id="Shape"/>
+                <path d="M20 57v3" id="Shape"/>
+                <path d="M42 57v3" id="Shape"/>
+                <path d="M11 17v2" id="Shape"/>
+                <path d="M11 21v2" id="Shape"/>
+            </g>
+        </g>
+    </g>
 </symbol><symbol id="icon-youtube">
     
     <use fill="#73F5E2" xlink:href="#yb" transform="translate(-1.542 -4.735)"/>
