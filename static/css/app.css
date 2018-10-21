@@ -1943,3 +1943,20 @@ textarea {
 }
 
 /* # sourceMappingURL=app.css.map */
+
+/* Added: */
+
+input, textarea {
+	padding: 8px;
+	border-radius: 4px;
+}
+
+.hero__logo {
+	max-width: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+	.hero__logo {
+		max-width: 280px;
+	}
+}
