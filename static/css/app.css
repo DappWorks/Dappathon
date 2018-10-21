@@ -1943,3 +1943,10 @@ textarea {
 }
 
 /* # sourceMappingURL=app.css.map */
+
+/* Added: */
+
+input, textarea {
+	padding: 8px;
+	border-radius: 4px;
+}
